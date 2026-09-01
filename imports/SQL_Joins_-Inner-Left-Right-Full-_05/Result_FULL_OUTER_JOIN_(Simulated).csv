@@ -1,0 +1,14 @@
+customer_id,name,order_id,order_date
+1,"Aman Sharma",101,2024-01-01
+1,"Aman Sharma",108,2024-01-18
+2,"Priya Verma",102,2024-01-03
+3,"Ravi Kumar",103,2024-01-05
+4,"Sneha Reddy",109,2024-01-20
+5,"Aditya Mehta",104,2024-01-08
+6,"Kavya Iyer",105,2024-01-10
+7,"Rahul Singh",110,2024-01-25
+8,"Pooja Joshi",NULL,NULL
+9,"Nikhil Das",NULL,NULL
+10,"Neha Kapoor",NULL,NULL
+11,"Tanvi Desai",NULL,NULL
+12,"Vikram Rao",NULL,NULL
